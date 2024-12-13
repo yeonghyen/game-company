@@ -79,18 +79,18 @@ content_data = {
     labels[0]: {
         'images': [
             "https://i.ibb.co/qxr98Rx/d5886780.jpg",
-            "https://via.placeholder.com/300?text=Label1_Image2",
-            "https://via.placeholder.com/300?text=Label1_Image3"
+            "https://i.ibb.co/S5D40BB/thumbnail-home.jpg",
+            "https://i.ibb.co/Rb9XYkg/3-F3-F-3-F3-F3-F.webp"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=HNCKjStDQUU",
+            "https://www.youtube.com/watch?v=LOamz1pMCyA",
+            "https://www.youtube.com/watch?v=PMv7enz-5tM"
         ],
         'texts': [
-            "Label 1 관련 첫 번째 텍스트 내용입니다.",
-            "Label 1 관련 두 번째 텍스트 내용입니다.",
-            "Label 1 관련 세 번째 텍스트 내용입니다."
+            "블리자드 오버워치2 14시즌 시작(with 해저드)",
+            "블리자드 하스스톤를 드라마로 만든 하트스톤 예고편",
+            "블리자드 스타크래프트 임진록(임요환과 홍진호) 매치 경기(2년전)"
         ]
     },
     labels[1]: {
@@ -112,19 +112,19 @@ content_data = {
     },
     labels[2]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label3_Image1",
-            "https://via.placeholder.com/300?text=Label3_Image2",
-            "https://via.placeholder.com/300?text=Label3_Image3"
+            "https://i.ibb.co/VQz1Fg0/images.jpg",
+            "https://i.ibb.co/L6Bqt4C/3a458fb831e85841a62acde2913927a5.jpg",
+            "https://i.ibb.co/1Yg7W6c/66561-96458-724.png"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ"
+            "https://www.youtube.com/watch?v=tm9czVwjelA&t=7s",
+            "https://www.youtube.com/watch?v=AQXU0plQEBA",
+            "https://www.youtube.com/watch?v=6CGWWYrjXvY"
         ],
         'texts': [
-            "Label 3 관련 첫 번째 텍스트 내용입니다.",
-            "Label 3 관련 두 번째 텍스트 내용입니다.",
-            "Label 3 관련 세 번째 텍스트 내용입니다."
+            "라이엇 게임즈 롤에서 t1과 페이커 선수의 올해의 이스포츠팀/올해의 선수상",
+            "라이엇 게임즈 롤에서 만든 애니인 아케",
+            "라이엇 게임즈 발로란트에서 이벤트 진행(케미폭VAL)"
         ]
     }
 }
