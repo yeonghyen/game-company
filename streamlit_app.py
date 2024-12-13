@@ -96,13 +96,13 @@ content_data = {
     labels[1]: {
         'images': [
             "https://i.ibb.co/HKtRz5n/og-image.png",
-            "https://via.placeholder.com/300?text=Label2_Image2",
-            "https://via.placeholder.com/300?text=Label2_Image3"
+            "https://i.ibb.co/xGt7dqt/nexon-logo.png",
+            "https://i.ibb.co/GvYntnz/images.jpg"
         ],
         'videos': [
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g",
-            "https://www.youtube.com/watch?v=3JZ_D3ELwOQ",
-            "https://www.youtube.com/watch?v=2Vv-BfVoq4g"
+            "https://www.youtube.com/watch?v=N9Es4p1ug0U",
+            "https://www.youtube.com/watch?v=LSrjRi2-1ik",
+            "https://www.youtube.com/watch?v=O3tGuW5ykZk"
         ],
         'texts': [
             "Label 2 관련 첫 번째 텍스트 내용입니다.",
