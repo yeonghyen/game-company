@@ -95,7 +95,7 @@ content_data = {
     },
     labels[1]: {
         'images': [
-            "https://via.placeholder.com/300?text=Label2_Image1",
+            "https://i.ibb.co/HKtRz5n/og-image.png",
             "https://via.placeholder.com/300?text=Label2_Image2",
             "https://via.placeholder.com/300?text=Label2_Image3"
         ],
