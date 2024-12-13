@@ -105,9 +105,9 @@ content_data = {
             "https://www.youtube.com/watch?v=O3tGuW5ykZk"
         ],
         'texts': [
-            "Label 2 관련 첫 번째 텍스트 내용입니다.",
-            "Label 2 관련 두 번째 텍스트 내용입니다.",
-            "Label 2 관련 세 번째 텍스트 내용입니다."
+            "넥슨 30주년",
+            "넥슨 피파 쵸단 광고",
+            "넥슨 메이플스토리 피아노 연주(연주자:유후)"
         ]
     },
     labels[2]: {
